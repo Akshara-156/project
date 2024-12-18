@@ -1,0 +1,70 @@
+#temp{
+    background-image: url(g.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+}
+#temp2{
+    background: url(css.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+}
+#temp3{
+
+    background: url(av.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+   
+}
+#text0{
+    text-emphasis-color: pink;
+}
+#temp4{
+    background: url(download.png);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+}
+#temp5{
+    background: url(download5.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1400px 950px;
+}
+#rr{
+    text-align: center;
+}
+#new{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin:10px 450px 0px 450px;
+    padding: 10px 10px;
+}
+#ss{
+    text-align: center;
+}
+#new1{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin:10px 450px 0px 450px;
+    padding: 10px 10px;
+}
+#pp{
+    text-align: center;
+}
+#new2{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin:10px 450px 0px 450px;
+    padding: 10px 10px;
+}
+#ll{
+    text-align: center;
+}
+#new3{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin:10px 450px 0px 450px;
+    padding: 10px 10px;
+}
